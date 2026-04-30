@@ -1,6 +1,6 @@
-<div align="center" style="background-color: white; padding: 20px;">
+<div align="center">
   <a href="https://shwethakj.vercel.app/" target="_blank">
-    <img src="shwetha.png" alt="Hi, I am Shwetha">
+    <img src="portfolio.png" alt="Hi, I am Shwetha">
   </a>
 </div>
 
