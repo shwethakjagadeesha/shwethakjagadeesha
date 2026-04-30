@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: white; padding: 20px;">
   <a href="https://shwethakj.vercel.app/" target="_blank">
     <img src="shwetha.png" alt="Hi, I am Shwetha">
   </a>
